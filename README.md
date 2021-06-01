@@ -104,6 +104,17 @@ Course title | Certification
 Responsive Web Design       | [view certification](https://mrdeveloperjis.github.io/certifications/assets/pdf/free-code-camp/responsive-web-design.pdf) / [verify certification](https://www.freecodecamp.org/certification/mrdeveloperjis/responsive-web-design)
 
 
+## Google Analytics Academy
+
+Completed Courses | Certification
+--|--
+Google Analytics for Beginners              | [view certification](https://mrdeveloperjis.github.io/certifications/assets/pdf/google-analytics/google-analytics-for-beginners.pdf) / [verify certification](https://analytics.google.com/analytics/academy/certificate/T5X2YDZeT2q7ZSgWxzVxuQ)
+Advanced Google Analytics                   | [view certification](https://mrdeveloperjis.github.io/certifications/assets/pdf/google-analytics/advanced-google-analytics.pdf) / [verify certification](https://analytics.google.com/analytics/academy/certificate/gA5IIqQPQf2gmPhoKAuusQ)
+Google Analytics for Power Users            | [view certification](https://mrdeveloperjis.github.io/certifications/assets/pdf/google-analytics/google-analytics-for-power-users.pdf) / [verify certification](https://analytics.google.com/analytics/academy/certificate/qZvEcI9_Tv-ZrQL3yNbruQ)
+Getting Started With Google Analytics 360   | [view certification](https://mrdeveloperjis.github.io/certifications/assets/pdf/google-analytics/getting-started-with-google-analytics-360.pdf) / [verify certification](https://analytics.google.com/analytics/academy/certificate/dKaldBhuTmyPoT7LEm_dGQ)
+Introduction to Data Studio                 | [view certification](https://mrdeveloperjis.github.io/certifications/assets/pdf/google-analytics/introduction-to-data-studio.pdf) / [verify certification](https://analytics.google.com/analytics/academy/certificate/fEuVQvtFSLOesFKlff7nQw)
+Google Tag Manager Fundamentals             | [view certification](https://mrdeveloperjis.github.io/certifications/assets/pdf/google-analytics/google-tag-manager-fundamentals.pdf) / [verify certification](https://analytics.google.com/analytics/academy/certificate/AEFq0LQ2Rk2hkk5AMqn6XQ)
+
 ## LinkedIn Learning
 
 Completed Courses | Certification
