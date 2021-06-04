@@ -1,8 +1,4 @@
-# certifications
-Online certifications of [MrDeveloperJIS](https://github.com/mrdeveloperjis)
-
-
-## Coursera
+# Coursera
 
 University title | Specialization title | Included Courses | Certification
 --|--|--|--
@@ -97,14 +93,14 @@ Use Canva to Create Social Media Marketing Designs                      | [view 
 Create a Business Marketing Brand Kit Using Canva                       | [view certification](https://mrdeveloperjis.github.io/certifications/assets/pdf/coursera/V4WYDUKARX2G.pdf) / [verify certification](https://www.coursera.org/verify/V4WYDUKARX2G)
 
 
-## Free Code Camp
+# Free Code Camp
 
 Course title | Certification
 --|--
 Responsive Web Design       | [view certification](https://mrdeveloperjis.github.io/certifications/assets/pdf/free-code-camp/responsive-web-design.pdf) / [verify certification](https://www.freecodecamp.org/certification/mrdeveloperjis/responsive-web-design)
 
 
-## Google Analytics Academy
+# Google Analytics Academy
 
 Completed Courses | Certification
 --|--
@@ -115,11 +111,11 @@ Getting Started With Google Analytics 360   | [view certification](https://mrdev
 Introduction to Data Studio                 | [view certification](https://mrdeveloperjis.github.io/certifications/assets/pdf/google-analytics/introduction-to-data-studio.pdf) / [verify certification](https://analytics.google.com/analytics/academy/certificate/fEuVQvtFSLOesFKlff7nQw)
 Google Tag Manager Fundamentals             | [view certification](https://mrdeveloperjis.github.io/certifications/assets/pdf/google-analytics/google-tag-manager-fundamentals.pdf) / [verify certification](https://analytics.google.com/analytics/academy/certificate/AEFq0LQ2Rk2hkk5AMqn6XQ)
 
-## LinkedIn Learning
+# LinkedIn Learning
 
 Completed Courses | Certification
 --|--
 HTML Essential Training         | [view certification](https://mrdeveloperjis.github.io/certifications/assets/pdf/linkedin-learning/html-essential-training.pdf)
 
 
-<!-- ## Udemy -->
+<!-- # Udemy -->
