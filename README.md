@@ -1,2 +1,1 @@
-# certifications
-Online certifications of [MrDeveloperJIS](https://github.com/mrdeveloperjis)
+Online certifications of [MrDeveloperJIS](https://mrdeveloperjis.github.io/)

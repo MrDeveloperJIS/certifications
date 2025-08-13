@@ -1,6 +1,8 @@
 User-agent: *
 Allow: /
-Disallow: /assets/
-Disallow: /assets/pdf/
+Disallow: /assets/css/
+Disallow: /assets/img/
+Disallow: /assets/js/
+Allow: /assets/pdf/
 Crawl-delay: 20
 Sitemap: https://mrdeveloperjis.github.io/certifications/sitemap.xml
