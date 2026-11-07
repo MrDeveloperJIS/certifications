@@ -10,7 +10,9 @@ Online certifications of [MrDeveloperJIS](https://github.com/MrDeveloperJIS).
 
 Visit my site to check the [certifications](https://mrdeveloperjis.github.io/certifications/).
 
-[![badge](https://img.shields.io/badge/Md.%20Jahidul%20Islam%20Sujan-MrDevelopeJIS-black?logo=github&logoColor=white)](https://mrdeveloperjis.github.io)
+[![badge](https://img.shields.io/badge/Md.%20Jahidul%20Islam%20Sujan-MrDeveloperJIS-black?logo=github&logoColor=white)](https://mrdeveloperjis.github.io)
+
+---
 
 # Coursera
 
